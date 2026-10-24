@@ -1,0 +1,2 @@
+# Runtime uses Python 3.11+ standard library only.
+# Spark-X2.6-4B is served separately through SGLang or vLLM.
